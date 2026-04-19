@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GameVault.API/GameVault.API.csproj" />
+  <Project Path="GameVault.Application/GameVault.Application.csproj" />
+  <Project Path="GameVault.Domain/GameVault.Domain.csproj" />
+  <Project Path="GameVault.Infrastructure/GameVault.Infrastructure.csproj" />
+</Solution>
