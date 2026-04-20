@@ -6,7 +6,7 @@ services:
     container_name: gamevault-db
     environment:
       - ACCEPT_EULA=Y
-      - SA_PASSWORD=GameVault123!
+      - SA_PASSWORD=zaq1@WSX
     ports:
       - "1433:1433"
     volumes:
